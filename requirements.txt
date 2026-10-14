@@ -1,0 +1,3 @@
+numpy
+lightkurve
+plotly
